@@ -7,14 +7,16 @@ Pfannkuchen sind lecker! Lasst uns lernen wie man sie zubereitet.
 - Eier
 - Milch
 - Mehl
-- Zucker
 - Salz
-- Schokolade
+- Pilze 
+- Parmesan
+
 
 ## Zubereitung
 
 - Mix alles zusammen.
-- Brate es in einer Pfanne.
+- Brate  die Pilze in einer Pfanne.
+- Danach brate die Pfannkuchen.
 - Nach 30 sec wenden.
-- Puderzucker zu Verzierung.
+- Pilze und Parmesan als Toppings.
 - Fertig, wunderbar für ein leckeres Frühstück!
