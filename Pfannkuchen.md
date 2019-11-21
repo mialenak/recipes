@@ -1,22 +1,22 @@
 #  Omas Pfannkuchen
 
-Pfannkuchen sind lecker! Lasst uns lernen wie man sie zubereitet.
+Pannenkoeken zijn lekker! Laten we ze samen maken.
 
 ## Zutaten
 
-- Eier
-- Milch
-- Mehl
-- Salz
-- Pilze 
-- Parmesan
+- eitjes
+- melk
+- bloem
+- zout
+- bier?
+- parmezaan
 
 
 ## Zubereitung
 
-- Mix alles zusammen.
-- Brate  die Pilze in einer Pfanne.
-- Danach brate die Pfannkuchen.
-- Nach 30 sec wenden.
-- Pilze und Parmesan als Toppings.
-- Fertig, wunderbar für ein leckeres Frühstück!
+- Meng alle ingrediënten.
+- Bak het bier in een pan.
+- Bak de pannenkoeken in de pan.
+- Wacht 30 seconden.
+- Bier en parmezaan als topping.
+- Klaar, perfect voor een lekker ontbijtje.
