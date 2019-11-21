@@ -15,6 +15,6 @@ Pfannkuchen sind lecker! Lasst uns lernen wie man sie zubereitet.
 
 - Mix alles zusammen.
 - Brate es in einer Pfanne.
-- Kaufe Pfannkuchen.
-- Wärme sie in der Mikrowelle auf.
-- Fertig!
+- Nach 30 sec wenden.
+- Puderzucker zu Verzierung.
+- Fertig, wunderbar für ein leckeres Frühstück!
