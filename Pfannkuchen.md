@@ -1,4 +1,4 @@
-# Pfannkuchen
+#  Omas Pfannkuchen
 
 Pfannkuchen sind lecker! Lasst uns lernen wie man sie zubereitet.
 
