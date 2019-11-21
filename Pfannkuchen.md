@@ -1,0 +1,3 @@
+- Kaufe Pfannkuchen.
+- Wärme sie in der Mikrowelle auf.
+- Fertig!
